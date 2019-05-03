@@ -1,0 +1,15 @@
+C:\Users\KingDanielRay(MU-Stu\source\repos\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\KingDanielRay(MU-Stu\source\repos\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\KingDanielRay(MU-Stu\source\repos\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\KingDanielRay(MU-Stu\source\repos\FinalProject\FinalProject\obj\Debug\FinalProject.csprojAssemblyReference.cache
+C:\Users\KingDanielRay(MU-Stu\source\repos\FinalProject\FinalProject\obj\Debug\MainWindow.g.cs
+C:\Users\KingDanielRay(MU-Stu\source\repos\FinalProject\FinalProject\obj\Debug\App.g.cs
+C:\Users\KingDanielRay(MU-Stu\source\repos\FinalProject\FinalProject\obj\Debug\FinalProject_MarkupCompile.cache
+C:\Users\KingDanielRay(MU-Stu\source\repos\FinalProject\FinalProject\obj\Debug\FinalProject_MarkupCompile.lref
+C:\Users\KingDanielRay(MU-Stu\source\repos\FinalProject\FinalProject\obj\Debug\MainWindow.baml
+C:\Users\KingDanielRay(MU-Stu\source\repos\FinalProject\FinalProject\obj\Debug\FinalProject.g.resources
+C:\Users\KingDanielRay(MU-Stu\source\repos\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+C:\Users\KingDanielRay(MU-Stu\source\repos\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+C:\Users\KingDanielRay(MU-Stu\source\repos\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\KingDanielRay(MU-Stu\source\repos\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\KingDanielRay(MU-Stu\source\repos\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
